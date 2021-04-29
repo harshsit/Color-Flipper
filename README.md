@@ -1,4 +1,3 @@
 # Color-Flipper
 
-A simple interesting project 
-Flipping the background color by using random and Math functions
+A simple interesting project. You can flip the background color)Simple or Hex) by using random and Math functions.
